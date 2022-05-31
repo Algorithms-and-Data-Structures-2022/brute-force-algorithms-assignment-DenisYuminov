@@ -26,4 +26,4 @@ namespace assignment {
     return subsets;
   }
 
-}  // namespace assignment
+}
